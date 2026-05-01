@@ -105,6 +105,7 @@ AstroGuard/
 This project was presented at **WiDS 2026** (Women in Data Science).
 
 > *AstroGuard: Boosting Planetary Defense through High-Recall Machine Learning for Asteroid Classification*
+> 
 > Areeshah Nadeem, Norah Alarifi, Abrar Wafa — Prince Sultan University, Riyadh, Saudi Arabia
 
 ---
@@ -117,6 +118,11 @@ This project was presented at **WiDS 2026** (Women in Data Science).
 
 ---
 
-## 📬 Contact
+## Created By:
 
-For questions or collaboration, reach out via [Prince Sultan University](https://www.psu.edu.sa).
+Norah Alarifi - nourahalarifi3@gmail.com
+Areeshah Nadeem - 222410835@psu.edu.sa
+
+## Supervised By:
+
+Dr. Abrar Wafa - awafa@psu.edu.sa
